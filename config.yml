@@ -7,9 +7,9 @@ Nodes:
   -
     PanelType: "V2board" # Panel type: SSpanel, V2board
     ApiConfig:
-      ApiHost: "v2.biliebilie.com" # 修改这里
+      ApiHost: "http://vb.biliebilie.com" # 修改这里
       ApiKey: "85ad4145af000d0639238fc56ec76101" # 修改这里
-      NodeID: 1
+      NodeID: 4
       NodeType: Trojan # Node type: V2ray, Shadowsocks, Trojan
       Timeout: 30 # Timeout for the api request
       EnableVless: false # Enable Vless for V2ray Type, Remote configuration first
